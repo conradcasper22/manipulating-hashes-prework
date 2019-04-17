@@ -13,4 +13,3 @@ def second_challenge
   groceries
 
 end
-binding.pry
